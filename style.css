@@ -1,0 +1,20 @@
+
+
+.cabeca{
+    display: flex;
+	justify-content: center;
+	align-items: center;
+    padding: 20px;
+    
+}
+.logo{
+    width: 200px;
+    
+}
+
+.botao{
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+    border-radius: 30px;
+}
